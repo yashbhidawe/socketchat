@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Chat from "./components/chat/chat";
+import Chat from "./components/Chat/Chat";
 import Detail from "./components/detail/detail";
 import List from "./components/list/List";
 import Login from "./components/Login/Login";
